@@ -4,7 +4,7 @@ import java.lang.Thread;
 public class orionBankSystem {
 
 // TODO: 16/02/2024
-    // make savings interface re-route back to main, upon exit of savings
+    // make savings interface re-route back to main menu, upon exit of savings
     // implement JUnit tests too, if i have time
 
     static double balance = 0;
